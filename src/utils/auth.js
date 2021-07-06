@@ -4,7 +4,6 @@ import Config from '@/settings'
 const TokenKey = Config.TokenKey
 
 export function getToken() {
-  // TEST WEBHOOK
   return Cookies.get(TokenKey)
 }
 
