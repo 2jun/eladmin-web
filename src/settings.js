@@ -44,7 +44,7 @@ module.exports = {
    */
   footerTxt: '© 2019 Zhang Ai Jun <a href="http://www.apache.org/licenses/LICENSE-2.0" target="_blank">Apache License 2.0</a>',
   /**
-   * 备案号 @TODO 备案号 待申请
+   * 备案号
    */
-  caseNumber: '#备案号 待申请'
+  caseNumber: '苏ICP备2021031838号'
 }
